@@ -7,3 +7,5 @@ This summer school was arranged in connection with the European Horizon 2020 pro
 ## Using these notebooks
 
 Background and a suggested reading order are given in "ERIGrid\_Summer\_school\_2018.pdf".
+
+Each set of notebooks require specific python packages, as represented in their individual requirements.txt files.
