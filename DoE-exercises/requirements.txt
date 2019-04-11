@@ -1,0 +1,5 @@
+pandas==0.22.0
+mosaik==2.5.0
+numpy==1.14.2
+mosaik_api==2.2
+sobol_seq==0.1.2
