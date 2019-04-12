@@ -1,6 +1,6 @@
 # Quantifying the quality of Smart Energy Solutions via testing
 
-This repository contains educational material given in conjunction with the summer school "Quantifying the quality of Smart Energy Solutions via testing", given at the Technical University of Denmark in August 2018.
+This repository contains educational material given in conjunction with the summer school "Quantifying the quality of Smart Energy Solutions via testing", held at the Technical University of Denmark in August 2018.
 
 This summer school was arranged in connection with the European Horizon 2020 project ERIGrid (www.erigrid.eu).
 
