@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2637726.svg)](https://doi.org/10.5281/zenodo.2637726)
+[![DOI](https://zenodo.org/badge/171645690.svg)](https://zenodo.org/badge/latestdoi/171645690)
 
 # Quantifying the quality of Smart Energy Solutions via testing
 
