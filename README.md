@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2637726.svg)](https://doi.org/10.5281/zenodo.2637726)
+
 # Quantifying the quality of Smart Energy Solutions via testing
 
 This repository contains educational material given in conjunction with the summer school "Quantifying the quality of Smart Energy Solutions via testing", held at the Technical University of Denmark in August 2018.
